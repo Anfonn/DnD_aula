@@ -1,0 +1,42 @@
+1- Personagem
+2- Classe
+3- Raça
+4- Item
+5- Magia
+6- Dado
+7- Ambiente
+8- Pericia
+9- Talento
+
+--Personagem (atributos)--
+Nome
+Idade
+Raça*
+Tamanho
+Alinhamento
+Tendencia
+Classe*
+Habilidades (força/destreza/constituicao/sabedoria/inteligencia/carisma)
+Resistencias (fortitude/vontade/reflexos)
+Vida
+Classe de armadura (toque/surpresa)
+Base de ataque
+Deslocamento
+Ouro
+Capacidade de carga
+Pericia*
+Talento*
+
+--Personagem (metodos)--
+Atacar (agarrar/tocar/investida/desarmar/fintar)
+Deslocar (andar/correr/voar/nadar)
+Usar pericia
+Teste de sobrevivencia
+Usar magia
+Usar habilidade
+Usar item
+Comprar
+Dormir
+Alimentar
+
+
